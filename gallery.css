@@ -30,7 +30,7 @@ body
     width: 800px;
     height: 600px;
     position: relative;
-    background-color: bisque;
+    background-color: gray;
     overflow: hidden;
     justify-content: center;
     align-items: center;
